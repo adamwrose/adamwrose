@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamwrose
 - 👀 I’m interested in Swift, Python, Angular, React Native
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open soure Projects
 - 📫 How to reach me @adamwrose on Twitter
 
 <!---
